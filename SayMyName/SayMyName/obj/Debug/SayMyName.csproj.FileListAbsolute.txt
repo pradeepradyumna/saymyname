@@ -1,0 +1,5 @@
+T:\MyExe\SayMyName\SayMyName\bin\Debug\SayMyName.exe
+T:\MyExe\SayMyName\SayMyName\bin\Debug\SayMyName.pdb
+T:\MyExe\SayMyName\SayMyName\obj\Debug\SayMyName.csproj.CoreCompileInputs.cache
+T:\MyExe\SayMyName\SayMyName\obj\Debug\SayMyName.exe
+T:\MyExe\SayMyName\SayMyName\obj\Debug\SayMyName.pdb
